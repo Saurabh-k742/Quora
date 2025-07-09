@@ -1,0 +1,49 @@
+h1 {
+    color: maroon;
+}
+
+.post {
+    background-color: blanchedalmond;
+    height: 12rem;
+    width: 30rem;
+    padding-left: 1rem;
+}
+
+.allpost {
+    margin-left: 32rem;
+}
+
+.user {
+    font-style: italic;
+}
+
+.form {
+    background-color: antiquewhite;
+    height: 10rem;
+    width: 20rem;
+    border: 1px solid black;
+    margin: 10rem 0 0 30rem;
+    padding: 0 0 3rem 8rem;
+    border-radius: 1rem;
+}
+
+.show {
+    height: 18rem;
+    width: 32rem;
+    margin: 5rem 0 0 30rem;
+    border: 1px solid black;
+    padding: 2rem 2rem 2rem 2rem;
+    border-radius: 1rem;
+    /* background-color:beige; */
+}
+
+.edit {
+    height: 20rem;
+    width: 25rem;
+    margin: 5rem 0 0 30rem;
+    border: 1px solid black;
+    padding: 2rem 2rem 2rem 2rem;
+    border-radius: 1rem;
+    background-color: antiquewhite;
+}
+
